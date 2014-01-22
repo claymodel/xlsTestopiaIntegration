@@ -1,2 +1,0 @@
-#!/bin/bash
- mysql -h localhost -u root -p"hasnat123" bugzilla < outfilename;

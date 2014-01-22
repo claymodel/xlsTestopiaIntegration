@@ -1,2 +1,0 @@
-#!/bin/bash
-mysql -u root -p"hasnat123" bugzilla < outfilename;
